@@ -15,5 +15,4 @@ npm run dev
 
 ให้นศ.ศึกษาวิธีการ build ได้ใน slide
 และสุดท้ายให้ deploy ใน [CMU Personal Webhosting](https://register-myweb.cmu.ac.th/)
-
-(ใส่ URL ที่นี่)
+https://codesandbox.io/s/busy-rui-belwq2
